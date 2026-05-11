@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**md-imran-ali/md-imran-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you start## Hi there, I'm Imran Ali! 👋
+## Hi there, I'm Imran Ali! 👋
 
 ### Product Excellence through Scalable Testing Strategies
 
@@ -52,14 +47,4 @@ I am a Quality Engineering specialist dedicated to helping startups build robust
 
 I believe that "Quality is not an act, it is a habit." I spend as much time optimizing my developer workflow as I do breaking code.
 
----ed:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
