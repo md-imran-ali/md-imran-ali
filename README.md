@@ -20,10 +20,10 @@ I am a Quality Engineering specialist dedicated to helping startups build robust
 | Category | Tools |
 | --- | --- |
 | **Languages** | Python, JavaScript, Java |
-| **Automation** | Selenium, Playwright, Cypress, Appium |
+| **Automation** | Playwright, Cypress, Appium |
 | **Testing** | PyTest, Jest, TestNG, Postman |
 | **CI/CD & DevOps** | GitHub Actions, Jenkins, Docker, AWS |
-| **Management** | Jira, TestRail, Zephyr |
+| **Management** | Jira, trello, Zephyr |
 
 ---
 
