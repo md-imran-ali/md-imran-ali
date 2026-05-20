@@ -39,11 +39,11 @@ I am a Quality Engineering specialist dedicated to helping startups build robust
 
 * **LinkedIn:** [linkedin.com/in/md-imran-ali](https://www.google.com/search?q=https://linkedin.com/in/md-imran-ali)
 * **Portfolio:** [YourPortfolioLink.com](https://www.google.com/search?q=%23)
-* **Email:** [your-email@example.com]()
+* **Email:** [bdimranyt@gmail.com]()
 
 ---
 
-### ⚡ Fun Fact
+⚡ Fun Fact
 
 I believe that "Quality is not an act, it is a habit." I spend as much time optimizing my developer workflow as I do breaking code.
 
