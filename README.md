@@ -38,7 +38,7 @@ I am a Quality Engineering specialist dedicated to helping startups build robust
 ### 🤝 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/md-imran-ali](https://www.google.com/search?q=https://linkedin.com/in/md-imran-ali)
-* **Portfolio:** [YourPortfolioLink.com](https://www.google.com/search?q=%23)
+* **WhatsApp:** [YourPortfolioLink.com](+8801313551361)
 * **Email:** [bdimranyt@gmail.com]()
 
 ---
